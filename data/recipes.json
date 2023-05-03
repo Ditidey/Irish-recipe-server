@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Irish Coddle",
+      "image": "https://example.com/images/irish_coddle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Irish Soda Bread",
+      "image": "https://example.com/images/irish_soda_bread.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dublin Coddle",
+      "image": "https://example.com/images/dublin_coddle.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Irish Boxty with Smoked Salmon",
+      "image": "https://example.com/images/irish_boxty_with_smoked_salmon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Colcannon with Bacon",
+      "image": "https://example.com/images/colcannon_with_bacon.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bangers and Mash with Onion Gravy",
+      "image": "https://example.com/images/bangers_and_mash_with_onion_gravy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Guinness Beef Stew",
+      "image": "https://example.com/images/guinness_beef_stew.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Irish Lamb Stew",
+      "image": "https://example.com/images/irish_lamb_stew.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Irish Cream Chocolate Mousse",
+      "image": "https://example.com/images/irish_cream_chocolate_mousse.jpg"
+    }
+  ]

@@ -1,7 +1,7 @@
   [
     {
         "id": 1,
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://media.istockphoto.com/id/827474570/photo/chef-spicing-soup-and-smiling.jpg?s=1024x1024&w=is&k=20&c=N1Yd6fsxCyuC6iB1y0ybvMjBeCEJSybJEEdLu0hX3ns=",
         "chef_name": "Kevin Dundon",
         "num_recipes": 150,
         "years_experience": 25,
@@ -62,7 +62,7 @@
     },
     {
         "id": 2,
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://media.istockphoto.com/id/698764374/photo/chef-standing-in-commercial-kitchen-in-a-restaurant.jpg?s=612x612&w=is&k=20&c=mTUjNZmEPaG8jdzrCJq67m1DS_aosnkSp7ONyUw2JOs=",
         "chef_name": "Neven Maguire",
         "num_recipes": 300,
         "years_experience": 30,
@@ -116,7 +116,7 @@
     },
     {
         "id": 3,
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
         "chef_name": "Darina Allen",
         "num_recipes": 400,
         "years_experience": 50,
@@ -165,7 +165,7 @@
     },
     {
         "id": 4,
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Rachel Allen",
         "num_recipes": 200,
         "years_experience": 20,
@@ -222,7 +222,7 @@
     },
     {
         "id": 5,
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80https://example.com/chef1.jpg",
         "chef_name": "Nernin Dundon",
         "num_recipes": 250,
         "years_experience": 30,
@@ -271,7 +271,7 @@
     },
     {
         "id": 6,
-        "chef_image": "https://example.com/chef5.jpg",
+        "chef_image": "https://images.unsplash.com/photo-1622221410151-2e0c403c5c38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
         "chef_name": "Siobhan Boyle",
         "num_recipes": 150,
         "years_experience": 20,
