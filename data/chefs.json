@@ -5,7 +5,7 @@
         "chef_name": "Kevin Dundon",
         "num_recipes": 150,
         "years_experience": 25,
-        "rating": 4.9,
+        "rating": 4,
         "likes": 2000,
         "short_bio": "Kevin Dundon is an award-winning chef and restaurateur based in Ireland.",
         "recipes": [
@@ -26,7 +26,7 @@
                     "salt and pepper to taste"
                 ],
                 "cooking_method": "1. In a large pot or Dutch oven, heat the oil over medium-high heat. Add the beef and cook until browned on all sides, about 8 minutes.\n2. Remove the beef from the pot and set aside. Add the butter to the pot and melt. Add the onions and garlic and cook until softened, about 5 minutes.\n3. Add the Guinness beer to the pot and stir to scrape up any browned bits on the bottom. Add the beef broth, tomato paste, and thyme and stir to combine.\n4. Return the beef to the pot and add the carrots and potatoes. Bring the stew to a simmer and cover. Cook for 1 1/2 to 2 hours, or until the beef is tender.\n5. Season with salt and pepper to taste.",
-                "rating": 4.8
+                "rating": 4
             },
             {
                 "recipe_name": "Irish Soda Bread",
@@ -37,7 +37,7 @@
                     "1 3/4 cups buttermilk"
                 ],
                 "cooking_method": "1. Preheat the oven to 425°F. Grease a baking sheet or line with parchment paper.\n2. In a large bowl, whisk together the flour, baking soda, and salt. Add the buttermilk and stir until a sticky dough forms.\n3. Turn the dough out onto a floured surface and knead briefly until it comes together into a ball.\n4. Place the dough onto the prepared baking sheet and shape into a round loaf. Cut a deep X into the top of the dough with a sharp knife.\n5. Bake for 30-40 minutes, or until the bread is golden brown and sounds hollow when tapped.\n6. Cool the bread on a wire rack before slicing and serving.",
-                "rating": 4.5
+                "rating": 5
             },
             {
                 "recipe_name": "Guinness Chocolate Cake",
@@ -56,7 +56,7 @@
                     "1 1/4 cups powdered sugar"
                 ],
                 "cooking_method": "1. Preheat the oven to 425°F. Grease a baking sheet or line with parchment paper.\n2. In a large bowl, whisk together the flour, baking soda, and salt. Add the buttermilk and stir until a sticky dough forms.\n3. Turn the dough out onto a floured surface and knead briefly until it comes together into a ball.\n4. Place the dough onto the prepared baking sheet and shape into a round loaf. Cut a deep X into the top of the dough with a sharp knife.\n5. Bake for 30-40 minutes, or until the bread is golden brown and sounds hollow when tapped.\n6. Cool the bread on a wire rack before slicing and serving.",
-                "rating": 3.5
+                "rating": 3
             }
         ]
     },
@@ -66,7 +66,7 @@
         "chef_name": "Neven Maguire",
         "num_recipes": 300,
         "years_experience": 30,
-        "rating": 4.8,
+        "rating": 4,
         "likes": 5000,
         "short_bio": "Neven Maguire is an award-winning chef and owner of MacNean House & Restaurant in County Cavan, Ireland.",
         "recipes": [
@@ -83,7 +83,7 @@
                     "2 cups beef broth"
                 ],
                 "cooking_method": "1. Preheat oven to 325°F. Season the beef with salt and pepper.\n2. In a large Dutch oven, heat the oil over medium-high heat. Add the beef and cook until browned on all sides, about 8 minutes. Remove the beef from the pot and set aside.\n3. Add the onion, garlic, carrots, and celery to the pot and cook until softened, about 5 minutes.\n4. Add the wine to the pot and stir to scrape up any browned bits on the bottom. Add the beef broth, tomato paste, bay leaf, and thyme and stir to combine.\n5. Return the beef to the pot and bring the mixture to a simmer. Cover and transfer to the oven. Cook for 2 1/2 to 3 hours, or until the beef is tender.\n6. Remove the beef from the pot and let it rest for a few minutes before slicing. Serve with the red wine sauce.",
-                "rating": 4.9
+                "rating": 4
             },
             {
                 "recipe_name": "Irish Seafood Chowder",
@@ -99,7 +99,7 @@
                     "salt and pepper to taste"
                 ],
                 "cooking_method": "1. In a large pot or Dutch oven, melt the butter over medium-high heat. Add the onion and leeks and cook until softened, about 5 minutes.\n2. Add the potatoes and fish stock to the pot and bring to a simmer. Cook until the potatoes are tender, about 20 minutes.\n3. Add the seafood to the pot and simmer until cooked through, about 5 minutes. Stir in the cream and parsley and season with salt and pepper to taste.\n4. Serve hot with crusty bread.",
-                "rating": 4.7
+                "rating": 3
             },
             {
                 "recipe_name": "Baileys Irish Cream Cheesecake",
@@ -110,7 +110,7 @@
                     "24 oz cream cheese, softened"
                 ],
                 "cooking_method": "1. In a large pot or Dutch oven, melt the butter over medium-high heat. Add the onion and leeks and cook until softened, about 5 minutes.\n2. Add the potatoes and fish stock to the pot and bring to a simmer. Cook until the potatoes are tender, about 20 minutes.\n3. Add the seafood to the pot and simmer until cooked through, about 5 minutes. Stir in the cream and parsley and season with salt and pepper to taste.\n4. Serve hot with crusty bread.",
-                "rating": 4.7
+                "rating": 5
             }
         ]
     },
@@ -120,7 +120,7 @@
         "chef_name": "Darina Allen",
         "num_recipes": 400,
         "years_experience": 50,
-        "rating": 4.9,
+        "rating": 5,
         "likes": 7000,
         "short_bio": "Darina Allen is a renowned chef, author, and educator who founded the Ballymaloe Cookery School in County Cork, Ireland.",
         "recipes": [
@@ -135,7 +135,7 @@
                     "salt and pepper to taste"
                 ],
                 "cooking_method": "1. Preheat oven to 325°F. Toss the lamb cubes with the flour.\n2. In a large Dutch oven, heat the oil over medium-high heat. Add the lamb and cook until browned on all sides, about 8 minutes. Remove the lamb from the pot and set aside.\n3. Add the onion, garlic, carrots, and potatoes to the pot and cook until softened, about 5 minutes.\n4. Add the beef broth, tomato paste, thyme, salt, and pepper to the pot and stir to combine.\n5. Return the lamb to the pot and bring the mixture to a simmer. Cover and transfer to the oven. Cook for 2 to 2 1/2 hours, or until the lamb is tender.\n6. Serve hot with crusty bread.",
-                "rating": 4.8
+                "rating": 4
             },
             {
                 "recipe_name": "Irish Soda Bread",
@@ -146,7 +146,7 @@
                     "1 3/4 cups buttermilk"
                 ],
                 "cooking_method": "1. Preheat oven to 425°F. Grease a baking sheet.\n2. In a large bowl, whisk together the flour, baking soda, and salt.\n3. Make a well in the center of the dry ingredients and add the buttermilk. Mix until a dough forms.\n4. Turn the dough out onto a floured surface and knead briefly. Shape the dough into a round and place it on the prepared baking sheet.\n5. Cut a deep cross into the top of the dough.\n6. Bake for 30 to 40 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom.\n7. Let the bread cool before slicing and serving.",
-                "rating": 4.7
+                "rating": 4
             },
             {
                 "recipe_name": "Baileys Irish Cream Cheesecake",
@@ -159,7 +159,7 @@
                     "1 tsp vanilla extract"
                 ],
                 "cooking_method": "1. Preheat Grease a baking sheet.\n2. In a large bowl, whisk together the flour, baking soda, and salt.\n3. Make a well in the center of the dry ingredients and add the buttermilk. Mix until a dough forms.\n4. Turn the dough out onto a floured surface and knead briefly. Shape the dough into a round and place it on the prepared baking sheet.\n5. Cut a deep cross into the top of the dough.\n6. Bake for 30 to 40 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom.\n7. Let the bread cool before slicing and serving.",
-                "rating": 4.7
+                "rating": 3
             }
         ]
     },
@@ -169,7 +169,7 @@
         "chef_name": "Rachel Allen",
         "num_recipes": 200,
         "years_experience": 20,
-        "rating": 4.7,
+        "rating": 3,
         "likes": 5500,
         "short_bio": "Rachel Allen is an Irish chef, cookbook author, and television personality. She is best known for her approachable and family-friendly recipes.",
         "recipes": [
@@ -226,7 +226,7 @@
         "chef_name": "Nernin Dundon",
         "num_recipes": 250,
         "years_experience": 30,
-        "rating": 4.6,
+        "rating": 5,
         "likes": 4500,
         "short_bio": "Nernin Dundon is an Irish celebrity chef, restaurateur, and television personality. He is the owner and head chef of Dunbrody Country House Hotel in County Wexford, Ireland.",
         "recipes": [
